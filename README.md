@@ -4,7 +4,7 @@ A simple Game in Android using Java
 
 Welcome to Coin Man.
 
-This app was developed using Android Studio, the official integrated development environment for Google's Android operating system, designed specifically for Android development. If you don’t have Android Studio yet, you can download it [https://developer.android.com/studio/index.html](here)
+This app was developed using Android Studio, the official integrated development environment for Google's Android operating system, designed specifically for Android development. If you don’t have Android Studio yet, you can download it [here](https://developer.android.com/studio/index.html)
 
 #### [](https://github.com/shivamjjha/Coin-Man-Game#getting-started)Getting started
 
